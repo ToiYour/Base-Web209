@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 1 ",
+      "desc": "Mô tả sản phẩm 1",
+      "image": "Ảnh sản phẩm 1",
+      "price": 121245,
+      "id": 1
+    },
+    {
+      "name": "Sản phảm1 ",
+      "price": 1555,
+      "image": "vsdv",
+      "desc": "vsdvsdv",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$fj9lJliBFk97GkZt7rmszu7uhvZ2I1WeD/WisyRp9pgKFEPwSboCy",
+      "id": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$zTnhzJQ5s4Pl8sksltg47O.VZy2R/lwMwyDFfipDvjWjBfwURYgmK",
+      "id": 2
+    }
+  ]
+}
